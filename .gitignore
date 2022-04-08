@@ -1,0 +1,7 @@
+# Ignore workstation specific files
+.local/*
+.settings/
+
+*.cache
+.screenshots/*
+debug.log
